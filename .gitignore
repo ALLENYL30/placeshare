@@ -1,0 +1,6 @@
+/backend/nodemon.json
+node_modules/
+/.idea/
+/frontend/.gitignore
+/backend/package-lock.json
+/backend/public/
